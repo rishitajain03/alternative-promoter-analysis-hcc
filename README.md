@@ -121,11 +121,11 @@ Promoter-level analysis revealed transcriptomic changes that were not evident fr
 
 ### Workflow
 
-![Workflow](figures/workflow.png)
+![Workflow](workflow.png)
 
 ### Comparison of Promoter Quantification Methods
 
-![Method Comparison](figures/comparison.png)
+![Method Comparison](comparison.png)
 
 ### Example Biomarker
 
