@@ -129,9 +129,6 @@ Promoter-level analysis revealed transcriptomic changes that were not evident fr
 
 ### Example Biomarker
 
-![Biomarker](figures/setbp1.png)
-
----
 
 ## Skills Demonstrated
 
@@ -153,7 +150,6 @@ Promoter-level analysis revealed transcriptomic changes that were not evident fr
 ```text
 ├── README.md
 ├── thesis/
-├── presentation/
 ├── figures/
 ├── scripts/
 ├── results/
